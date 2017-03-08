@@ -195,4 +195,3 @@ size: MTLSize(width: mnistInputWidth, height: mnistInputHeight, depth: 1)),
     }
 
 }
-

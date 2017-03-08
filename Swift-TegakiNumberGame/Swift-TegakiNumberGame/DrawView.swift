@@ -44,6 +44,7 @@ class DrawView: UIView {
             callbackdelegate.drawviewCallback()
         }
     }
+    
     override func draw(_ rect: CGRect) {
         super.draw(rect)
         
