@@ -26,7 +26,7 @@ class ViewController: UIViewController {
 
     // URL
     @IBAction func buttonUrl(_ sender: Any) {
-        if let url = URL(string: "https://..../guide.pdf") {
+        if let url = URL(string: "https://hikaruapp.github.io/Swift-PlayXcode/guide.pdf") {
             myWebView.loadRequest(URLRequest(url: url))
         }
     }
